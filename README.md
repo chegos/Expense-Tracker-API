@@ -234,7 +234,7 @@ Authorization: Bearer SEU_TOKEN
 Luis Rodrigues
 📍 São José dos Campos - SP
 🔗 GitHub: https://github.com/chegos
-https://roadmap.sh/projects/expense-tracker-api
+
 
 ---
 
